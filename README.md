@@ -1,5 +1,4 @@
 # CoinFlip
-**翻金币案例**：
 
 - `CoinFlip_Release`: 绿色发布版
 - `CoinFlip_Source`  : 源文件
