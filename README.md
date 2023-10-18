@@ -1,7 +1,13 @@
 # CoinFlip
-翻金币案例（绿色发布版、源文件版）
+[翻金币案例]()
 
- 
+`CoinFlip_Release`: 绿色发布版
+
+`CoinFlip_Source`  : 源文件
+
+ `img` : readme内的相关图片
+
+
 
 # 界面展示
 
