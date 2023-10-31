@@ -1,4 +1,10 @@
-# CoinFlip
+# Qt版本
+
+- **Qt 5.15.2**
+
+
+
+# CoinFlip 文件说明
 
 - `CoinFlip_Release`: 绿色发布版
 - `CoinFlip_Source`  : 源文件
