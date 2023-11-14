@@ -1,18 +1,10 @@
-# Qt版本
+# Qt version
 
 - **Qt 5.15.2**
 
 
 
-# CoinFlip 文件说明
-
-- `CoinFlip_Release`: 绿色发布版
-- `CoinFlip_Source`  : 源文件
-- `img` : readme内的相关图片
-
-
-
-# 界面展示
+# demo
 
 <img src="./img/image-20231018172915103.png" alt="image-20231018172915103" style="zoom:67%;" />
 
